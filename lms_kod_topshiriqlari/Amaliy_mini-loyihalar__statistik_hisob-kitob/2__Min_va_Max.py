@@ -1,0 +1,5 @@
+n = list(map(int, input().split()))
+m_v = min(n)
+n_v = max(n)
+print(m_v)
+print(n_v)
