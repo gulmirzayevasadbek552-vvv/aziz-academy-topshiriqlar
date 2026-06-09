@@ -1,0 +1,5 @@
+n = list(map(int, input().split()))
+n.sort()
+l = len(n)
+m = (n[l//2] if l%2 else (n[l//2-1] + n[l//2])/2)
+print(f"{m:.2f}")
