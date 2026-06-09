@@ -1,0 +1,5 @@
+num = list(map(int, input().split()))
+c = len(num)
+t = sum(num)
+print(c)
+print(t)
