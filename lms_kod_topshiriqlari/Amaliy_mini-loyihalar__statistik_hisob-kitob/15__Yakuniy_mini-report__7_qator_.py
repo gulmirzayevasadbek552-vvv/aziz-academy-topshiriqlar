@@ -1,0 +1,15 @@
+n = list(map(int, input().split()))
+c = len(n)
+t = sum(n)
+m = min(n)
+x = max(n)
+e = t / c
+v = sum(1 for z in n if z % 2 == 0)
+o = c - v
+print(f"count: {c}")
+print(f"sum: {t}")
+print(f"min: {m}")
+print(f"max: {x}")
+print(f"mean: {e:.2f}")
+print(f"evens: {v}")
+print(f"odds: {o}")
