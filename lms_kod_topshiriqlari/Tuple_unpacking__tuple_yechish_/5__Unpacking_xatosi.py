@@ -1,0 +1,2 @@
+t = "Error"
+print(t)
