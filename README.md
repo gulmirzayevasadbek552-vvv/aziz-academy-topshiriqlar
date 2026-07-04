@@ -1,2 +1,56 @@
-# aziz-academy-topshiriqlar
-Aziz Academy — AI topshiriqlar va loyihalar
+# 🎓 Aziz Academy — Gulmirzayev Asadbek
+
+**Kurs:** Dasturlash / IT
+
+## 📊 Umumiy progress
+
+`█████░░░░░░░░░░░░░░░` **25%**  (45/179 mavzu)
+
+- ⭐ Jami ball: **6050**
+- 📤 GitHubga yuborilgan topshiriqlar: **704**
+
+## 🎯 Qaysi mavzuga yetdingiz
+
+**MODUL 5 — Comprehensions** → **Set comprehension — takrorlanmas natijalar**
+
+➡️ Keyingi mavzu: *List comprehension — kirish ⭐ — [x for x in ...]*
+
+<details open>
+<summary>Shu moduldagi mavzular</summary>
+
+- ⬜ List comprehension — kirish ⭐ — [x for x in ...]
+- ✅ List comprehension — shartli — [x for x in ... if ...]
+- ✅ Dict comprehension — mapping va filtrlash
+- ✅ Set comprehension — takrorlanmas natijalar  ← yetgan joyingiz
+- ⬜ 🛠 Amaliy: Ma'lumotni qayta ishlash — comprehension bilan tozalash
+
+</details>
+
+## 🗂 Modullar bo'yicha
+
+| # | Modul | Progress | Mavzular |
+|---|-------|----------|----------|
+| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
+| 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
+| 3 | 🔸 Shartlar va Sikllar | `█████████░` 93% | 14/15 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `███████░░░` 72% | 13/18 |
+| 5 | 🔸 Comprehensions | `██████░░░░` 60% | 3/5 |
+| 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
+| 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
+| 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
+| 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
+| 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
+| 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
+| 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
+| 13 | ⬜ Regex va Type Hints | `░░░░░░░░░░` 0% | 0/8 |
+| 14 | ⬜ Web Asoslari | `░░░░░░░░░░` 0% | 0/10 |
+| 15 | ⬜ Ma'lumotlar Bazasi va Concurrency | `░░░░░░░░░░` 0% | 0/8 |
+| 16 | ⬜ Yakuniy Loyihalar | `░░░░░░░░░░` 0% | 0/6 |
+
+## 📂 Papkalar
+
+- `lms_kod_topshiriqlari/` — kod topshiriqlari (modul/mavzu bo'yicha, har biri alohida fayl)
+- `lms_yozma_topshiriqlari/` — yozma javoblar
+
+---
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-04 09:21</sub>
