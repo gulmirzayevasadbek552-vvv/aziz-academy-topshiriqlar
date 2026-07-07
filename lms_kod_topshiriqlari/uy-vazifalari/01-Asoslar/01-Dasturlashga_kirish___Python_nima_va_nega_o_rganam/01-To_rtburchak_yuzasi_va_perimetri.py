@@ -1,4 +1,4 @@
+n = int(input())
 a = int(input())
-b = int(input())
-print(a * b)
-print((a + b) * 2)
+print(n * a)
+print((n + a) * 2)
