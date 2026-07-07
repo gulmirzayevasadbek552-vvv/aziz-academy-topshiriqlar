@@ -1,3 +1,3 @@
 a = input()
 b = input()
-print(f"Ism-familiya:", a, b)
+print(f"Ism-familiya: {a} {b}")
