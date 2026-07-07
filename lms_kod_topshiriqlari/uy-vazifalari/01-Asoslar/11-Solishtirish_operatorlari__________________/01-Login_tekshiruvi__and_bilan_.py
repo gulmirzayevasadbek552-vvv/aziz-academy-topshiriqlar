@@ -1,3 +1,4 @@
-a = input()
-b = input()
-print(a == "admin" and b == "secret")
+login = input()
+parol = input()
+
+print(login == "admin" and len(parol) >= 6)
