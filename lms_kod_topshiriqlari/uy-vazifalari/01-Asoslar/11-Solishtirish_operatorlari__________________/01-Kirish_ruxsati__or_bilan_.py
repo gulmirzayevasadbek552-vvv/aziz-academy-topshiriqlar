@@ -1,3 +1,4 @@
-a = input()
-b = input()
-print(a != "0000" or b != "user")
+kod = input()
+rol = input()
+
+print(kod == "1234" or rol == "admin")
