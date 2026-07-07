@@ -1,2 +1,5 @@
-print("Ko'paytma: 18")
-print("Bo'linma: 2.0")
+a = 6
+b = 3
+
+print("Ko'paytma:", a * b)
+print("Bo'linma:", a / b)
