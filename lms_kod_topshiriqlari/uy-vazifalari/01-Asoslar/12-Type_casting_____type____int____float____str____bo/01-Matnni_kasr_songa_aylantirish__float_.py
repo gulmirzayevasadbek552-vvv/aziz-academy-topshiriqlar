@@ -1,2 +1,2 @@
-a = float(input())
-print(a * 2)
+n = float(input())
+print(n * 2)
