@@ -1,2 +1,2 @@
 a = input()
-print("Uzunlik:", len(a))
+print(f"Uzunlik: {len(a)}")
