@@ -1,3 +1,6 @@
-a = int(input())
-b = float(input())
-print(f"Jami: {a * b} som")
+soni = int(input())
+narx = float(input())
+
+jami = soni * narx
+
+print("Jami: " + str(jami) + " som")
