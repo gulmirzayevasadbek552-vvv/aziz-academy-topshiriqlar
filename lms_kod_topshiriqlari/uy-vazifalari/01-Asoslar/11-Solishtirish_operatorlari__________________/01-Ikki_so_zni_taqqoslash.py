@@ -1,4 +1,4 @@
 a = input()
 b = input()
 print(a == b)
-print(len(a) == len(b))
+print(b == "olma" or b == "anor")
