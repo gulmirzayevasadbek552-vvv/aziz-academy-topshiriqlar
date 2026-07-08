@@ -1,7 +1,11 @@
-n = int(input())
-p = int(input())
-d = int(input())
-s = n * p
-print(s)
-print(s * d // 100)
-print(s - s * d // 100)
+soat = int(input())
+stavka = int(input())
+soliq_foizi = int(input())
+
+yalpi = soat * stavka 
+soliq = yalpi * soliq_foizi // 100
+sof = yalpi - soliq 
+
+print(yalpi)
+print(soliq)
+print(sof)
