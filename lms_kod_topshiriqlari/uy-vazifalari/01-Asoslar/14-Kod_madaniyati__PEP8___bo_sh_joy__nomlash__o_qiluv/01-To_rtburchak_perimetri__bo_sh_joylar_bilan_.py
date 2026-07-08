@@ -1,3 +1,5 @@
-a = int(input())
-b = int(input())
-print((a + b) * 2)
+uzunlik = int(input())
+kenglik = int(input())
+
+perimetr = 2 * (uzunlik + kenglik)
+print(perimetr)
