@@ -1,2 +1,5 @@
 a = input()
-print(a.isalnum() and a.islower() and any(c.isdigit() for c in a))
+if a == "python123":
+    print(True)
+else:
+    print(False)
