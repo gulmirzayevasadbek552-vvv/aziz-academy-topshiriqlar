@@ -1,2 +1,5 @@
-a = int(input())
-print(a * 6.28)
+PI = 3.14 
+
+radius = float(input())
+aylana = 2 * PI * radius 
+print(aylana)
