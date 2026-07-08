@@ -1,9 +1,11 @@
-n = int(input())
-nn = int(input())
-c = int(input())
-u = n * nn
-cm = u * c // 100
-cc = u - cm
-print(u)
-print(cm)
-print(cc)
+soni = int(input())
+narx = int(input())
+foiz = int(input())
+
+umumiy = soni * narx 
+chegirma = umumiy * foiz // 100 
+yakuniy = umumiy - chegirma 
+
+print(umumiy)
+print(chegirma)
+print(yakuniy)
