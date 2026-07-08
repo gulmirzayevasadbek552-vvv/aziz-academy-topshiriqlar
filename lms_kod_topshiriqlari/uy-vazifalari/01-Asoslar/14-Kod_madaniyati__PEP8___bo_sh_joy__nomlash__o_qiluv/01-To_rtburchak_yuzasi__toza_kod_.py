@@ -1,3 +1,5 @@
-a = int(input())
-b = int(input())
-print(a * b)
+uzunlik = int(input())
+kenglik = int(input())
+
+yuza = uzunlik * kenglik 
+print(yuza)
