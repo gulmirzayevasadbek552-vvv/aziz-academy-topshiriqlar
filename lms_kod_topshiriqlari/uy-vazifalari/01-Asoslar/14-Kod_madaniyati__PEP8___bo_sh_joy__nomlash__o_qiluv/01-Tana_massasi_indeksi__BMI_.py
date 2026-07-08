@@ -1,3 +1,6 @@
-s = float(input())
-t = float(input())
-print(s / (t * t))
+vazn = float(input())
+boy = float(input())
+
+bmi = vazn / (boy * boy)
+
+print(bmi)
