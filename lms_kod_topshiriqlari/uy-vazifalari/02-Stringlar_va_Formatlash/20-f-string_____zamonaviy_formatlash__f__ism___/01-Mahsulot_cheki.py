@@ -1,0 +1,7 @@
+n = input()
+x = int(input())
+s = int(input())
+print(f"Mahsulot: {n}")
+print(f"Narxi: {x} som")
+print(f"Soni: {s}")
+print(f"Jami: {x * s} som")
