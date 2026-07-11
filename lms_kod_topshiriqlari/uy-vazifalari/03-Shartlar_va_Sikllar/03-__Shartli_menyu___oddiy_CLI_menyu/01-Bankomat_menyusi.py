@@ -1,0 +1,7 @@
+a=int(input())
+b=int(input())
+c=int(input())
+if a==1:print(b)
+elif a==2:print(b-c if c<=b else "Mablag' yetarli emas")
+elif a==3:print(b+c)
+else:print("Notogri amal")
